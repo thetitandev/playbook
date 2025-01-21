@@ -1,3 +1,3 @@
 var a=5;
-const b=5;
+var b=5;
 const c=a+b;
